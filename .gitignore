@@ -1,0 +1,9 @@
+node_modules
+.git
+.prettierignore
+.prettierrc
+eslint.config.mjs
+jest.config.ts
+package-lock.json
+tailwind.config.ts
+tsconfig.json
